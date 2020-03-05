@@ -20,7 +20,7 @@ Skill of alexa, quote a famous phrase every day of the year.
 
 ## Website project
 
-[https://www.amazon.es/davidespier-com-Frase-diaria-365](https://www.amazon.es/davidespier-com-Frase-diaria-365-d%C3%ADas/dp/B07WYXW9GZ)
+[Amazon store](https://www.amazon.es/davidespier-com-Frase-diaria-365-d%C3%ADas/dp/B07WYXW9GZ)
 
 
 ## Authors
