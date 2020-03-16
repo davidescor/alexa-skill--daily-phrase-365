@@ -1,4 +1,6 @@
-![frasediaria365](https://images-na.ssl-images-amazon.com/images/I/71l0PleYNyL.png)
+<p align="center">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/71l0PleYNyL.png">
+</p>
 
 # alexa-skill-frase-diaria-365
 
