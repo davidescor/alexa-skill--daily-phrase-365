@@ -21,7 +21,7 @@ Skill of alexa, quote a famous phrase every day of the year.
 3. Add 'Lambda/frase.json' or create new document in project in lambda and copy file.
 
 
-## Website project
+## Amazon store
 
 [Amazon store](https://www.amazon.es/davidespier-com-Frase-diaria-365-d%C3%ADas/dp/B07WYXW9GZ)
 
