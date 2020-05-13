@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/71l0PleYNyL.png">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/71l0PleYNyL.png" weight="200" width="200">
 </p>
+
 
 # alexa-skill-frase-diaria-365
 
