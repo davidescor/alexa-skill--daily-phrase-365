@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/71l0PleYNyL.png" weight="200" width="200">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/71l0PleYNyL.png">
 </p>
 
 
