@@ -18,8 +18,6 @@ Skill of alexa, quote a famous phrase every day of the year.
 
 2. Create Lambda -> function and copy 'Lambda/index.js' in your function.
 
-3. Add 'Lambda/frase.json' or create new document in project in lambda and copy file.
-
 
 ## Amazon store
 
